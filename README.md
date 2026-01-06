@@ -32,6 +32,7 @@ There are two boids, the dragon and the fairy. They are both technologically the
 
 <h4> Enemies </h4>
 <h5> Snake Boss </h5>
+<h5> The visualisation of the states you see here are an in-engine visual scripting tool I created to ease the making of new AI </h5>
 <h6> The snake boss knows the player's health, if the players health is high then it will either, move to and attack, or pretend to evade but move to and attack. If the player is at low health the boss will look to run away and taunt the player and sometimes attack. </h6>
 <img src = "AIPhotos/BossBT.PNG" title ="Design Plan For Main Boss">
 <h5> Target Enemy </h5>
